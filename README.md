@@ -20,6 +20,4 @@
 
 <h3>Informações sobre meu GitHub:</h3>
 
-[!Thercules](https://github-readme-stats.vercel.app/api/top-langs/?username=Thercules&hide=html&layout=compact&theme=tokyonight)](https://github.com/Thercules)
-
 [![card](https://github-readme-stats.vercel.app/api?username=Thercules&theme=tokyonight)](https://github.com/Thercules/)
