@@ -8,14 +8,7 @@
 
 <h3>:Minhas Skills:</h3> 
 
-<code> 
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/CSS3-3498DB?style=for-the-badge&logo=css3&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Bootstrap-7D3C98?style=for-the-badge&logo=bootstrap&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
-  <img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"/> 
-</code>
+<p> Java, MySQL, SQL server, JSF, HTML5, CSS3, JavaScript </p>
 
 <h3>Skills em Aperfeiçoamento:</h3>
 
