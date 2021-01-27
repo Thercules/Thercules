@@ -12,11 +12,11 @@
 
 <h3><em><b>Linguagens nas quais preciso me aprimorar:</b></em></h3>
 
-<p> ReactJS, Bootstrap, NodeJs, React Native. </p>
+<p> Oracle. </p>
 
 <h3><em><b>Linguagens nas quais tenho interesse:</em><b></h3> 
 
-<p>  </p>
+<p> Angular, NodeJs, ReactJs, React Native. </p>
 
 <h3>Informações sobre meu GitHub:</h3>
 
