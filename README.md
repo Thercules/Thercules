@@ -18,5 +18,3 @@
 <h3><em><b>Tenho interesse em:</em><b></h3> 
 
 <p> Angular, NodeJs, ReactJs, React Native. </p>
-
-<h3>Informações sobre meu GitHub:</h3>
