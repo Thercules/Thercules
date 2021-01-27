@@ -15,7 +15,7 @@
 
 <p> Oracle. </p>
 
-<h3><em><b>Linguagens nas quais tenho interesse:</em><b></h3> 
+<h3><em><b>Tenho interesse em:</em><b></h3> 
 
 <p> Angular, NodeJs, ReactJs, React Native. </p>
 
