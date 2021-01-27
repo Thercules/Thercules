@@ -20,5 +20,3 @@
 <p> Angular, NodeJs, ReactJs, React Native. </p>
 
 <h3>Informações sobre meu GitHub:</h3>
-
-[![card](https://github-readme-stats.vercel.app/api?username=Thercules&theme=tokyonight)](https://github.com/Thercules/)
