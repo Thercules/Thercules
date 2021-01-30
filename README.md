@@ -1,3 +1,4 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-2/css/all.min.css");
 <h1><b>Thiago Hercules de Aguiar Silva.</b><i class="fas fa-code"></i></h1>
 <p><em>Dev. Java Jr. | Front-end Dev. | Freelancer Designer. </em></p>
 
