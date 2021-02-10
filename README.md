@@ -7,11 +7,21 @@
 <a href="https://www.linkedin.com/in/thiago-hercules-2669901ba/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://gist.github.com/Thercules"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-#### - [Portfólio Online](https://github.com/Thercules/PortfolioTdesigner)
+<h3><em><b>Alguns projetos:</b></em></h3> 
+
+#### - [Animated card](https://github.com/Thercules/CartaoVendasAnimado) 
+Look in branches.
+
+#### - [Animated card](https://github.com/Thercules/CartaoVendasAnimado)
+Look in branches.
+
+#### - [Ocean button](https://github.com/Thercules/BotaoAnimacaoAgua)
+Look in branches.
 
 <h3><em><b>Linguagens que tenho conhecimento:</b></em></h3> 
 
-<p> Java, MySQL, SQL server, JSF, HTML5, CSS3, JavaScript </p>
+<p> Java, MySQL, SQL server, JSF,JPA,JSP, JDBC, Servlets, Maven, Hibernate, JWT, SpringBoot, HTML5, CSS3, JavaScript, Bootstrap. </p>
+<p> Criação de projetos padrão MVC, DAO e CRUD.</p>
 
 <h3><em><b>Linguagens nas quais preciso me aprimorar:</b></em></h3>
 
