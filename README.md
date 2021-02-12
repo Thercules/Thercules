@@ -17,7 +17,7 @@
 
 <h3><em><b>📈 Projects: 📊</b></em></h3> 
 
-#### - [Portfolio](https://github.com/Thercules/PortfolioTdesigner) 
+#### - [Portfolio 📲](https://github.com/Thercules/PortfolioTdesigner) 
 <a href="#"><img src="https://img.shields.io/badge/JavaScript-E94057?style=for-the-badge&logo=Javascript&logoColor=white"/>
 </a>
 <a href="#"><img src="https://img.shields.io/badge/HTML5-E94057?style=for-the-badge&logo=Html5&logoColor=white"/>
@@ -28,7 +28,7 @@
 </br>
 <p> |--> This portfolio was created in order to promote my page as a freelance designer. On this site, contents such as projects and even super elaborated arts were attractively designated for user access. </p>
 
-#### - [Animated Sellard](https://github.com/Thercules/CartaoVendasAnimado)
+#### - [Animated Card 💳](https://github.com/Thercules/CartaoVendasAnimado)
 <a href="#"><img src="https://img.shields.io/badge/JavaScript-E94057?style=for-the-badge&logo=Javascript&logoColor=white"/>
 </a>
 <a href="#"><img src="https://img.shields.io/badge/HTML5-E94057?style=for-the-badge&logo=Html5&logoColor=white"/>
@@ -38,7 +38,7 @@
 ![Github language count](https://img.shields.io/github/languages/count/Thercules/PortfolioTdesigner)
 <p> |--> Animation developed in CSS using only movement by degrees of objects. This project aims to develop an interactive and flashy card to sell products on a commercial web site. </p>
 
-#### - [Ocean button](https://github.com/Thercules/BotaoAnimacaoAgua)
+#### - [Ocean button 🌊](https://github.com/Thercules/BotaoAnimacaoAgua)
 <a href="#"><img src="https://img.shields.io/badge/JavaScript-E94057?style=for-the-badge&logo=Javascript&logoColor=white"/>
 </a>
 <a href="#"><img src="https://img.shields.io/badge/HTML5-E94057?style=for-the-badge&logo=Html5&logoColor=white"/>
