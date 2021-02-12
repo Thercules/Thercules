@@ -14,6 +14,10 @@
 <a href="https://instagram.com/tdesigner._"><img src="https://img.shields.io/badge/Professional Instagram-ffcbdb?style=for-the-badge&logo=instagram&logoColor=black"/></a>
 <a href="https://instagram.com/t.hercules02"><img src="https://img.shields.io/badge/Personal Instagram-ffcbdb?style=for-the-badge&logo=instagram&logoColor=black"/></a>
 <a href="https://www.behance.net/thercules/appreciated"><img src="https://img.shields.io/badge/Behance-0077B5?style=for-the-badge&logo=behance&logoColor=white"/></a>
+</br> 
+![Github language count](https://img.shields.io/github/followers/Thercules?style=social)
+</br>
+![Github language count](https://img.shields.io/github/stars/Thercules?style=social)
 
 <h3><em><b>📈 Projects: 📊</b></em></h3> 
 
