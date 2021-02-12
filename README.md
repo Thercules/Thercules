@@ -11,7 +11,6 @@
 
 <a href="mailto:thhercules2012@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/thiago-hercules-2669901ba/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://gist.github.com/Thercules"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://instagram.com/tdesigner._"><img src="https://img.shields.io/badge/Professional Instagram-ffcbdb?style=for-the-badge&logo=instagram&logoColor=black"/></a>
 <a href="https://instagram.com/t.hercules02"><img src="https://img.shields.io/badge/Personal Instagram-ffcbdb?style=for-the-badge&logo=instagram&logoColor=black"/></a>
 <a href="https://www.behance.net/thercules/appreciated"><img src="https://img.shields.io/badge/Behance-0077B5?style=for-the-badge&logo=behance&logoColor=white"/></a>
@@ -37,17 +36,53 @@
 
 <h3><em><b> 🔹 Languages of i know: 🎓</b></em></h3> 
 <h5><em><b>Linguagens que tenho conhecimento:  </em></b></h5>
-<p> --> Java, MySQL, SQL server, JSF,JPA,JSP, JDBC, Servlets, Maven, Hibernate, JWT, SpringBoot, HTML5, CSS3, JavaScript, Bootstrap. </p>
-<p> --> MVC, DAO and CRUD.</p>
+<a href="#"><img src="https://img.shields.io/badge/Java-E94057?style=for-the-badge&logo=Java&logoColor=white"/>
+</a>
+<a href="#"><img src="https://img.shields.io/badge/MySQL-E94057?style=for-the-badge&logo=Mysql&logoColor=white"/>
+</a>
+<a href="#"><img src="https://img.shields.io/badge/SQL server-E94057?style=for-the-badge&logo=Mysql&logoColor=white"/>
+</a>
+<a href="#"><img src="https://img.shields.io/badge/JSF-E94057?style=for-the-badge&logo=Java&logoColor=white"/>
+</a> 
+<a href="#"><img src="https://img.shields.io/badge/JPA-E94057?style=for-the-badge&logo=Java&logoColor=white"/>
+</a>
+<a href="#"><img src="https://img.shields.io/badge/JSP-E94057?style=for-the-badge&logo=Java&logoColor=white"/>
+</a>
+<a href="#"><img src="https://img.shields.io/badge/JDBC-E94057?style=for-the-badge&logo=Java&logoColor=white"/>
+</a>
+<a href="#"><img src="https://img.shields.io/badge/Servlets-E94057?style=for-the-badge&logo=Java&logoColor=white"/>
+</a>
+<a href="#"><img src="https://img.shields.io/badge/Maven-E94057?style=for-the-badge&logo=Apache&logoColor=white"/>
+</a>
+<a href="#"><img src="https://img.shields.io/badge/SpringBoot-E94057?style=for-the-badge&logo=Spring&logoColor=white"/>
+</a>
+<a href="#"><img src="https://img.shields.io/badge/JWT-E94057?style=for-the-badge&logo=json&logoColor=white"/>
+</a>
+<a href="#"><img src="https://img.shields.io/badge/JavaScript-E94057?style=for-the-badge&logo=Javascript&logoColor=white"/>
+</a>
+<a href="#"><img src="https://img.shields.io/badge/Bootstrap-E94057?style=for-the-badge&logo=Bootstrap&logoColor=white"/>
+</a>
+<a href="#"><img src="https://img.shields.io/badge/HTML5-E94057?style=for-the-badge&logo=Html5&logoColor=white"/>
+</a>
+<a href="#"><img src="https://img.shields.io/badge/CSS3-E94057?style=for-the-badge&logo=Css3&logoColor=white"/>
+</a>
+<p> --> Projects in format MVC, DAO and CRUD.</p>
 
 <h3><em><b> 🔹 Languages of i need to improve myself: 😬</b></em></h3>
 <h5><em><b>Linguagens nas quais preciso me aprimorar:  </em></b></h5>
-<p> --> Oracle, Angular, ReactJS, NodeJs </p>
+
+<a href="#"><img src="https://img.shields.io/badge/Oracle-E94057?style=for-the-badge&logo=Oracle&logoColor=white"/>
+</a>
+<a href="#"><img src="https://img.shields.io/badge/ReactJS-E94057?style=for-the-badge&logo=React&logoColor=white"/>
+</a> 
+<a href="#"><img src="https://img.shields.io/badge/Angular-E94057?style=for-the-badge&logo=Angular&logoColor=white"/>
+</a>
 
 <h3><em><b> 🔹 I am interested in: 🧐</em><b></h3> 
 <h5><em><b>Tenho interesse em: </em></b></h5>
-
-<p> --> Flutter, React Native, Angular's (4,5,6...). </p>
-
+<a href="#"><img src="https://img.shields.io/badge/Flutter-E94057?style=for-the-badge&logo=Flutter&logoColor=white"/>
+</a>
+<a href="#"><img src="https://img.shields.io/badge/React Native-E94057?style=for-the-badge&logo=React&logoColor=white"/>
+</a>
 <h3><em><b> 🔶 About BootCamps: 🚀</em><b></h3> 
 <p> --> Bootcamp developer mobile | IGTI | in progress... </p>
