@@ -46,5 +46,5 @@
 
 <p> --> Flutter, React Native, Angular's (4,5,6...). </p>
 
-<h3><em><b>About BootCamps: 🚀</em><b></h3> 
+<h3><em><b> 🔶 About BootCamps: 🚀</em><b></h3> 
 <p> --> Bootcamp developer mobile | IGTI | in progress... </p>
