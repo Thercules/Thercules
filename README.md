@@ -1,5 +1,5 @@
 <h1><b>Hello, my name is Thiago Hercules 👋</b><i class="fas fa-code"></i></h1>
-<p><em>Dev. Java Jr. | Front-end Dev. | Freelancer Designer. </em></p>
+<p><em>Jr. Software Engineer.| Freelancer Designer. </em></p>
 
 <h3><em><b>🌍Sobre mim:🧠</b></em></h3> 
 <p>Olá, me chamo Thiago, tenho 18 anos e sou estudante do 3º período de Ciência da Computação na UNIFG. Possuo conhecimentos em Java, adquiridos na instituição Fuctura Tecnologia, também desenvolvendo habilidades nas seguintes áreas: Oracle, MySQL, HTML, Java Web e CSS. Ao entrar na faculdade aprendi C/C++, Python, IONIC e Pentest. Como estudei em uma escola de referência, fui introduzido à robótica, onde participei da Olimpíada Brasileira de Robótica (OBR) em 2018 e do torneio oficial da LEGO FLL (First Lego League) na versão Hydro Dinamics em 2017. Através de alguns projetos pessoais desenvolvi um portfólio para minha página de design, e atualmente estou criando uma API em Java para gerenciamento de uma clínica. Assim como fiz parte de um projeto voluntário chamado Jovens Pelas Ruas (JPR) durante o período de 3 meses.
@@ -18,13 +18,13 @@
 #### - [Portfolio](https://github.com/Thercules/PortfolioTdesigner) 
 ![Github language count](https://img.shields.io/github/languages/count/Thercules/PortfolioTdesigner)
 </br>
-Look in branches.
+<p> |--> This portfolio was created in order to promote my page as a freelance designer. On this site, contents such as projects and even super elaborated arts were attractively designated for user access. </p>
 
 #### - [Animated card](https://github.com/Thercules/CartaoVendasAnimado)
-Look in branches.
+<p> |--> Animation developed in CSS using only movement by degrees of objects. This project aims to develop an interactive and flashy card to sell products on a commercial web site. </p>
 
 #### - [Ocean button](https://github.com/Thercules/BotaoAnimacaoAgua)
-Look in branches.
+<p> |--> Animation based on the waves of the sea. This interactive button was developed in order to draw the user's attention with something satisfactory. </p>
 
 <h4><em><b>Projetos em processo de criação: 📚</em></b></h4>
 <p> Atualmente estou desenvolvendo uma API REST com SpringBoot, Banco de dados e aplicações Web para gerenciamento de uma clínica. Sem previsão de postagem até finalizar meus cursos atuais.</p> 
