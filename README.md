@@ -13,7 +13,7 @@
 <a href="https://www.linkedin.com/in/thiago-hercules-2669901ba/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://gist.github.com/Thercules"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<h3><em><b>📈 Alguns projetos: 📊</b></em></h3> 
+<h3><em><b>📈 Projects: 📊</b></em></h3> 
 
 #### - [Portfolio](https://github.com/Thercules/PortfolioTdesigner) 
 ![Github language count](https://img.shields.io/github/languages/count/Thercules/PortfolioTdesigner)
