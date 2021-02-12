@@ -15,9 +15,7 @@
 
 <h3><em><b>Alguns projetos:</b></em></h3> 
 
-#### - [Portfolio](https://github.com/Thercules/PortfolioTdesigner) 
-https://img.shields.io/github/languages/count/Thercules/PortfolioTdesigner
-</br>
+#### - [Portfolio](https://github.com/Thercules/PortfolioTdesigner) ![Github language count](https://img.shields.io/github/languages/count/Thercules/PortfolioTdesigner)
 Look in branches.
 
 #### - [Animated card](https://github.com/Thercules/CartaoVendasAnimado)
