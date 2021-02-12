@@ -34,16 +34,17 @@ Look in branches.
 
 <h3><em><b>Linguagens que tenho conhecimento: 🎓</b></em></h3> 
 <h5><em><b>Languages of i know  </em></b></h5>
-</br>
-<p> Java, MySQL, SQL server, JSF,JPA,JSP, JDBC, Servlets, Maven, Hibernate, JWT, SpringBoot, HTML5, CSS3, JavaScript, Bootstrap. </p>
-<p> Criação de projetos padrão MVC, DAO e CRUD.</p>
+<p> --> Java, MySQL, SQL server, JSF,JPA,JSP, JDBC, Servlets, Maven, Hibernate, JWT, SpringBoot, HTML5, CSS3, JavaScript, Bootstrap. </p>
+<p> --> MVC, DAO and CRUD.</p>
 
 <h3><em><b>Linguagens nas quais preciso me aprimorar: 😬</b></em></h3>
 <h5><em><b>Languages of i need to improve myself:  </em></b></h5>
-</br>
-<p> Oracle, Angular, ReactJS, NodeJs </p>
+<p> --> Oracle, Angular, ReactJS, NodeJs </p>
 
 <h3><em><b>Tenho interesse em: 🧐</em><b></h3> 
 <h5><em><b>I am interested in: </em></b></h5>
-</br>
-<p> Flutter, React Native, Angular's (4,5,6...). </p>
+
+<p> --> Flutter, React Native, Angular's (4,5,6...). </p>
+
+<h3><em><b>About BootCamps: 🚀</em><b></h3> 
+<p> --> Bootcamp developer mobile | IGTI | in progress... </p>
