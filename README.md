@@ -26,23 +26,23 @@
 #### - [Ocean button](https://github.com/Thercules/BotaoAnimacaoAgua)
 <p> |--> Animation based on the waves of the sea. This interactive button was developed in order to draw the user's attention with something satisfactory. </p>
 
-<h4><em><b>Projetos em processo de criação: 📚</em></b></h4>
+<h4><em><b> 🔶 Projetos em processo de criação: 📚</em></b></h4>
 <p> Atualmente estou desenvolvendo uma API REST com SpringBoot, Banco de dados e aplicações Web para gerenciamento de uma clínica. Sem previsão de postagem até finalizar meus cursos atuais.</p> 
 
-<h4><em><b> Projects in the process of being created: 📚</em></b></h4>
+<h4><em><b> 🔶 Projects in the process of being created: 📚</em></b></h4>
 <p> I am currently developing a REST API with SpringBoot, Database and Web applications for managing a clinic. No posting forecast until I finish my current courses. </p>
 
-<h3><em><b>Linguagens que tenho conhecimento: 🎓</b></em></h3> 
-<h5><em><b>Languages of i know  </em></b></h5>
+<h3><em><b> 🔹 Languages of i know: 🎓</b></em></h3> 
+<h5><em><b>Linguagens que tenho conhecimento:  </em></b></h5>
 <p> --> Java, MySQL, SQL server, JSF,JPA,JSP, JDBC, Servlets, Maven, Hibernate, JWT, SpringBoot, HTML5, CSS3, JavaScript, Bootstrap. </p>
 <p> --> MVC, DAO and CRUD.</p>
 
-<h3><em><b>Linguagens nas quais preciso me aprimorar: 😬</b></em></h3>
-<h5><em><b>Languages of i need to improve myself:  </em></b></h5>
+<h3><em><b> 🔹 Languages of i need to improve myself: 😬</b></em></h3>
+<h5><em><b>Linguagens nas quais preciso me aprimorar:  </em></b></h5>
 <p> --> Oracle, Angular, ReactJS, NodeJs </p>
 
-<h3><em><b>Tenho interesse em: 🧐</em><b></h3> 
-<h5><em><b>I am interested in: </em></b></h5>
+<h3><em><b> 🔹 I am interested in: 🧐</em><b></h3> 
+<h5><em><b>Tenho interesse em: </em></b></h5>
 
 <p> --> Flutter, React Native, Angular's (4,5,6...). </p>
 
