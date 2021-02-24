@@ -35,6 +35,35 @@
 #### - [Supermarket](https://github.com/Thercules/gerenciamentoSupermercado)
 <a href="#"><img src="https://img.shields.io/badge/Java-E94057?style=for-the-badge&logo=Java&logoColor=white"/>
 </a>
+/*	
+	Functions in the application:
+	
+		--> Login with: 
+			.Manager
+			.Cashier
+			.Client
+			 
+		--> Control Options: // Manager 
+			.Add and remove products
+			.Issue inventory report
+			.Issue cashier sales report
+			
+		--> Control acess to cashier 
+		
+		--> Options: // Clients
+			.Access product inventory
+			.Customers can choose products
+			.Purchase
+		
+		--> More fuctions: 
+			.Register and remove products
+			.Issue reports
+			.Access boxes
+			.Place products in the shopping cart
+			.Make purchases
+		
+*/
+
 ![Github language count](https://img.shields.io/github/languages/count/Thercules/gerenciamentoSupermercado)
 
 #### - [Animated Card 💳](https://github.com/Thercules/CartaoVendasAnimado)
