@@ -32,6 +32,11 @@
 </br>
 <p> |--> This portfolio was created in order to promote my page as a freelance designer. On this site, contents such as projects and even super elaborated arts were attractively designated for user access. </p>
 
+#### - [Supermarket](https://github.com/Thercules/gerenciamentoSupermercado)
+<a href="#"><img src="https://img.shields.io/badge/Java-E94057?style=for-the-badge&logo=Java&logoColor=white"/>
+</a>
+![Github language count](https://img.shields.io/github/languages/count/Thercules/gerenciamentoSupermercado)
+
 #### - [Animated Card 💳](https://github.com/Thercules/CartaoVendasAnimado)
 <a href="#"><img src="https://img.shields.io/badge/JavaScript-E94057?style=for-the-badge&logo=Javascript&logoColor=white"/>
 </a>
