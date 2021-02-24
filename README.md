@@ -34,8 +34,9 @@
 
 #### - [Supermarket](https://github.com/Thercules/gerenciamentoSupermercado)
 <a href="#"><img src="https://img.shields.io/badge/Java-E94057?style=for-the-badge&logo=Java&logoColor=white"/>
-</a>
-/*	
+</a> 
+![Github language count](https://img.shields.io/github/languages/count/Thercules/gerenciamentoSupermercado)
+	
 	Functions in the application:
 	
 		--> Login with: 
@@ -62,9 +63,6 @@
 			.Place products in the shopping cart
 			.Make purchases
 		
-*/
-
-![Github language count](https://img.shields.io/github/languages/count/Thercules/gerenciamentoSupermercado)
 
 #### - [Animated Card 💳](https://github.com/Thercules/CartaoVendasAnimado)
 <a href="#"><img src="https://img.shields.io/badge/JavaScript-E94057?style=for-the-badge&logo=Javascript&logoColor=white"/>
