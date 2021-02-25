@@ -121,6 +121,8 @@
 <a href="#"><img src="https://img.shields.io/badge/HTML5-E94057?style=for-the-badge&logo=Html5&logoColor=white"/>
 </a>
 <a href="#"><img src="https://img.shields.io/badge/CSS3-E94057?style=for-the-badge&logo=Css3&logoColor=white"/>
+</a> 
+<a href="#"><img src="https://img.shields.io/badge/C/C++-E94057?style=for-the-badge&logo=C&logoColor=white"/>
 </a>
 <p> --> Projects in format MVC, DAO and CRUD.</p>
 
