@@ -116,6 +116,8 @@
 </a> 
 <a href="#"><img src="https://img.shields.io/badge/C/C++-E94057?style=for-the-badge&logo=C&logoColor=white"/>
 </a>
+<a href="#"><img src="https://img.shields.io/badge/PostgreSQL-E94057?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
+</a>
 <p> --> Projects in format MVC, DAO and CRUD.</p>
 
 <h3><em><b> 🔹 Languages of i need to improve myself: 😬</b></em></h3>
