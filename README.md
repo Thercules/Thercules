@@ -130,6 +130,10 @@
 </a>
 <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-E94057?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
 </a>
+<a href="#"><img src="https://img.shields.io/badge/React Native-E94057?style=for-the-badge&logo=React&logoColor=white"/>
+</a> 
+<a href="#"><img src="https://img.shields.io/badge/Android Native-E94057?style=for-the-badge&logo=Android&logoColor=white"/>
+</a>
 <p> --> Projects in format MVC, DAO and CRUD.</p>
 
 <h3><em><b> 🔹 Languages of i need to improve myself: 😬</b></em></h3>
@@ -143,8 +147,7 @@
 <h3><em><b> 🔹 I am interested in: 🧐</em><b></h3> 
 <a href="#"><img src="https://img.shields.io/badge/Flutter-E94057?style=for-the-badge&logo=Flutter&logoColor=white"/>
 </a>
-<a href="#"><img src="https://img.shields.io/badge/React Native-E94057?style=for-the-badge&logo=React&logoColor=white"/>
-</a>
+	
 <h3><em><b> 🔶 About BootCamps: 🚀</em><b></h3> 
 <p> --> Bootcamp developer mobile | IGTI | in progress... </p>
   
