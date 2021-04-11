@@ -40,61 +40,6 @@
 ![Github language count](https://img.shields.io/github/languages/count/Thercules/Project-Icarus)
 <p> |--> The icarus project is a personal achievement. Since I was little I always wanted to write great comic books, just like the ones we see in the drawings, so, I present to you the icarus project, with deploying the html on a hosting site. </p>
 
-#### - [Supermarket](https://github.com/Thercules/gerenciamentoSupermercado)
-<a href="#"><img src="https://img.shields.io/badge/Java-E94057?style=for-the-badge&logo=Java&logoColor=white"/>
-</a> 
-![Github language count](https://img.shields.io/github/languages/count/Thercules/gerenciamentoSupermercado)
-	
-	Functions in the application:
-	
-		--> Login with: 
-			.Manager
-			.Cashier
-			.Client
-			 
-		--> Control Options: // Manager 
-			.Add and remove products
-			.Issue inventory report
-			.Issue cashier sales report
-			
-		--> Control acess to cashier 
-		
-		--> Options: // Clients
-			.Access product inventory
-			.Customers can choose products
-			.Purchase
-		
-		--> More fuctions: 
-			.Register and remove products
-			.Issue reports
-			.Access boxes
-			.Place products in the shopping cart
-			.Make purchases
-		
-
-#### - [Animated Card 💳](https://github.com/Thercules/CartaoVendasAnimado)
-<a href="#"><img src="https://img.shields.io/badge/JavaScript-E94057?style=for-the-badge&logo=Javascript&logoColor=white"/>
-</a>
-<a href="#"><img src="https://img.shields.io/badge/HTML5-E94057?style=for-the-badge&logo=Html5&logoColor=white"/>
-</a>
-<a href="#"><img src="https://img.shields.io/badge/CSS3-E94057?style=for-the-badge&logo=Css3&logoColor=white"/>
-</a>
-![Github language count](https://img.shields.io/github/languages/count/Thercules/PortfolioTdesigner)
-<p> |--> Animation developed in CSS using only movement by degrees of objects. This project aims to develop an interactive and flashy card to sell products on a commercial web site. </p>
-
-#### - [Ocean button 🌊](https://github.com/Thercules/BotaoAnimacaoAgua)
-<a href="#"><img src="https://img.shields.io/badge/JavaScript-E94057?style=for-the-badge&logo=Javascript&logoColor=white"/>
-</a>
-<a href="#"><img src="https://img.shields.io/badge/HTML5-E94057?style=for-the-badge&logo=Html5&logoColor=white"/>
-</a>
-<a href="#"><img src="https://img.shields.io/badge/CSS3-E94057?style=for-the-badge&logo=Css3&logoColor=white"/>
-</a>
-![Github language count](https://img.shields.io/github/languages/count/Thercules/PortfolioTdesigner)
-<p> |--> Animation based on the waves of the sea. This interactive button was developed in order to draw the user's attention with something satisfactory. </p>
-
-<h4><em><b> 🔶 Projects in the process of being created: 📚</em></b></h4>
-<p> I am currently developing a REST API with SpringBoot, Database and Web applications for managing a clinic. No posting forecast until I finish my current courses. </p>
-
 <h3><em><b> 🔹 Languages of i know: 🎓</b></em></h3> 
 <a href="#"><img src="https://img.shields.io/badge/Java-E94057?style=for-the-badge&logo=Java&logoColor=white"/>
 </a>
