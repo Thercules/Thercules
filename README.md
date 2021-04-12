@@ -26,7 +26,7 @@
 </a>
 ![Github language count](https://img.shields.io/github/languages/count/Thercules/PortfolioTdesigner)
 </br>
-<p> |--> This portfolio was created in order to promote my page as a freelance designer. On this site, contents such as projects and even super elaborated arts were attractively designated for user access. </p>
+<p> ↳ This portfolio was created in order to promote my page as a freelance designer. On this site, contents such as projects and even super elaborated arts were attractively designated for user access. </p>
 
 #### - [Project icarus](https://github.com/Thercules/Project-Icarus)
 <a href="#"><img src="https://img.shields.io/badge/JavaScript-E94057?style=for-the-badge&logo=Javascript&logoColor=white"/>
@@ -35,10 +35,10 @@
 </a>
 <a href="#"><img src="https://img.shields.io/badge/CSS3-E94057?style=for-the-badge&logo=Css3&logoColor=white"/>
 </a>
-![Github language count](https://img.shields.io/github/languages/count/Thercules/PortfolioTdesigner)
-</br>
 ![Github language count](https://img.shields.io/github/languages/count/Thercules/Project-Icarus)
-<p> |--> The icarus project is a personal achievement. Since I was little I always wanted to write great comic books, just like the ones we see in the drawings, so, I present to you the icarus project, with deploying the html on a hosting site. </p>
+</br>
+
+<p> ↳ The icarus project is a personal achievement. Since I was little I always wanted to write great comic books, just like the ones we see in the drawings, so, I present to you the icarus project, with deploying the html on a hosting site. </p>
 
 <h3><em><b> 🔹 Languages of i know: 🎓</b></em></h3> 
 <a href="#"><img src="https://img.shields.io/badge/Java-E94057?style=for-the-badge&logo=Java&logoColor=white"/>
@@ -79,7 +79,7 @@
 </a> 
 <a href="#"><img src="https://img.shields.io/badge/Android Native-E94057?style=for-the-badge&logo=Android&logoColor=white"/>
 </a>
-<p> --> Projects in format MVC, DAO and CRUD.</p>
+<p> ↳ Projects in format: <b> MVC, DAO and CRUD.<b></p>
 
 <h3><em><b> 🔹 Languages of i need to improve myself: 😬</b></em></h3>
 <a href="#"><img src="https://img.shields.io/badge/Oracle-E94057?style=for-the-badge&logo=Oracle&logoColor=white"/>
@@ -94,5 +94,5 @@
 </a>
 	
 <h3><em><b> 🔶 About BootCamps: 🚀</em><b></h3> 
-<p> --> Bootcamp developer mobile | IGTI | in progress... </p>
+<p> ↳ Bootcamp developer mobile | IGTI | 4/5 ✅ </p>
   
