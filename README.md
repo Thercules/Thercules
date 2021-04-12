@@ -1,5 +1,5 @@
 <h1><b>Hello, my name is Thiago Hercules 👋</b><i class="fas fa-code"></i></h1>
-<p><em>Jr. fullstack developer. | Freelancer Designer. </em></p>
+<p><em>Jr. fullstack developer. | Freelancer UX/UI Designer. </em></p>
 
 <h3><em><b>🌍About me:🧠</b></em></h3> 
 <p>Hello, my name is Thiago, I'm 18 years old and I'm a student in the 3rd period of Computer Science at UNIFG. I have knowledge in Java, acquired at Fuctura Tecnologia, also developing skills in the following areas: Oracle, MySQL, HTML, Java Web and CSS. Upon entering college I learned C / C ++, Python, IONIC and Pentest. As I studied at a reference school, I was introduced to robotics, where I participated in the Brazilian Robotics Olympiad (OBR) in 2018 and the official LEGO FLL (First Lego League) tournament in the Hydro Dinamics version in 2017. Through some personal projects I developed a portfolio for my design page, and I'm currently creating a Java API for managing a clinic. Just as I was part of a voluntary project called Jovens Pelas Ruas (JPR) during the period of 3 months.
