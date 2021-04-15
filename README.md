@@ -55,6 +55,10 @@
 </a>
 <a href="#"><img src="https://img.shields.io/badge/JDBC-E94057?style=for-the-badge&logo=Java&logoColor=white"/>
 </a>
+<a href="#"><img src="https://img.shields.io/badge/JSON-E94057?style=for-the-badge&logo=Json&logoColor=white"/>
+</a>
+<a href="#"><img src="https://img.shields.io/badge/XML-E94057?style=for-the-badge&logo=java&logoColor=white"/>
+</a>
 <a href="#"><img src="https://img.shields.io/badge/Servlets-E94057?style=for-the-badge&logo=Java&logoColor=white"/>
 </a>
 <a href="#"><img src="https://img.shields.io/badge/Maven-E94057?style=for-the-badge&logo=Apache&logoColor=white"/>
@@ -79,7 +83,8 @@
 </a> 
 <a href="#"><img src="https://img.shields.io/badge/Android Native-E94057?style=for-the-badge&logo=Android&logoColor=white"/>
 </a>
-<p> ↳ Projects in format: <b> MVC, DAO and CRUD.<b></p>
+<p> ↳ Projects in format: <b> MVC, DAO and CRUD.<b></p><br>
+<p> ↳ Progressive web apps model.<b></p>
 
 <h3><em><b> 🔹 Languages of i need to improve myself: 😬</b></em></h3>
 <a href="#"><img src="https://img.shields.io/badge/Oracle-E94057?style=for-the-badge&logo=Oracle&logoColor=white"/>
@@ -94,5 +99,10 @@
 </a>
 	
 <h3><em><b> 🔶 About BootCamps: 🚀</em><b></h3> 
-<p> ↳ Bootcamp developer mobile | IGTI | 4/5 ✅ </p>
-  
+<p> ↳ Bootcamp developer mobile | IGTI | 4/5 ✅ </p> <br>
+<a href="#"><img src="https://img.shields.io/badge/React Native-E94057?style=for-the-badge&logo=React&logoColor=white"/> ✅
+</a> 
+<a href="#"><img src="https://img.shields.io/badge/Android Native-E94057?style=for-the-badge&logo=Android&logoColor=white"/> ✅
+</a>
+<a href="#"><img src="https://img.shields.io/badge/Flutter-E94057?style=for-the-badge&logo=Flutter&logoColor=white"/> 
+</a>  
