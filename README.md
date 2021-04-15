@@ -83,7 +83,7 @@
 </a> 
 <a href="#"><img src="https://img.shields.io/badge/Android Native-E94057?style=for-the-badge&logo=Android&logoColor=white"/>
 </a>
-<p> ↳ Projects in format: <b> MVC, DAO and CRUD.<b></p><br>
+<p> ↳ Projects in format: <b> MVC, DAO and CRUD.<b></p>
 <p> ↳ Progressive web apps model.<b></p>
 
 <h3><em><b> 🔹 Languages of i need to improve myself: 😬</b></em></h3>
