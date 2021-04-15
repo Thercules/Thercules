@@ -101,8 +101,8 @@
 <h3><em><b> 🔶 About BootCamps: 🚀</em><b></h3> 
 <p> ↳ Bootcamp developer mobile | IGTI | 4/5 ✅ </p> <br>
 <a href="#"><img src="https://img.shields.io/badge/React Native-E94057?style=for-the-badge&logo=React&logoColor=white"/> ✅
-</a> 
+</a> <br> 
 <a href="#"><img src="https://img.shields.io/badge/Android Native-E94057?style=for-the-badge&logo=Android&logoColor=white"/> ✅
-</a>
+</a> <br>
 <a href="#"><img src="https://img.shields.io/badge/Flutter-E94057?style=for-the-badge&logo=Flutter&logoColor=white"/> 
 </a>  
