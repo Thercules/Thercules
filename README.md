@@ -15,20 +15,7 @@
 </br>
 ![Github language count](https://img.shields.io/github/stars/Thercules?style=social)
 
-<h3><em><b>📈 Projects: 📊</b></em></h3> 
-
-#### - [Portfolio 📲](https://github.com/Thercules/PortfolioTdesigner) 
-<a href="#"><img src="https://img.shields.io/badge/JavaScript-E94057?style=for-the-badge&logo=Javascript&logoColor=white"/>
-</a>
-<a href="#"><img src="https://img.shields.io/badge/HTML5-E94057?style=for-the-badge&logo=Html5&logoColor=white"/>
-</a>
-<a href="#"><img src="https://img.shields.io/badge/CSS3-E94057?style=for-the-badge&logo=Css3&logoColor=white"/>
-</a>
-![Github language count](https://img.shields.io/github/languages/count/Thercules/PortfolioTdesigner)
-</br>
-<p> ↳ This portfolio was created in order to promote my page as a freelance designer. On this site, contents such as projects and even super elaborated arts were attractively designated for user access. </p>
-
-#### - [Project icarus](https://github.com/Thercules/Project-Icarus)
+#### • [Project icarus](https://github.com/Thercules/Project-Icarus)
 <a href="#"><img src="https://img.shields.io/badge/JavaScript-E94057?style=for-the-badge&logo=Javascript&logoColor=white"/>
 </a>
 <a href="#"><img src="https://img.shields.io/badge/HTML5-E94057?style=for-the-badge&logo=Html5&logoColor=white"/>
@@ -83,10 +70,11 @@
 </a> 
 <a href="#"><img src="https://img.shields.io/badge/Android Native-E94057?style=for-the-badge&logo=Android&logoColor=white"/>
 </a>
-<p> ↳ Projects in format: <b> MVC, DAO and CRUD.<b></p>
-<p> ↳ Progressive web apps model.<b></p>
+<p> • Projects in format: <b> MVC, DAO and CRUD.<b></p> 
+<p> • Progressive web apps model.<b></p> 
+<p> • Agile methodologies with Scrum.<b></p>
 
-<h3><em><b> 🔹 Languages of i need to improve myself: 😬</b></em></h3>
+<h3><em><b> • Languages of i need to improve myself: 📚</b></em></h3>
 <a href="#"><img src="https://img.shields.io/badge/Oracle-E94057?style=for-the-badge&logo=Oracle&logoColor=white"/>
 </a>
 <a href="#"><img src="https://img.shields.io/badge/ReactJS-E94057?style=for-the-badge&logo=React&logoColor=white"/>
@@ -94,11 +82,11 @@
 <a href="#"><img src="https://img.shields.io/badge/Angular-E94057?style=for-the-badge&logo=Angular&logoColor=white"/>
 </a>
 
-<h3><em><b> 🔹 I am interested in: 🧐</em><b></h3> 
+<h3><em><b> • I am interested in: 🧐</em><b></h3> 
 <a href="#"><img src="https://img.shields.io/badge/Flutter-E94057?style=for-the-badge&logo=Flutter&logoColor=white"/>
 </a>
 	
-<h3><em><b> 🔶 About BootCamps: 🚀</em><b></h3> 
+<h3><em><b> • About BootCamps: 🚀</em><b></h3> 
 <p> ↳ Bootcamp developer mobile | IGTI | 4/5 ✅ </p> <br>
 <a href="#"><img src="https://img.shields.io/badge/React Native-E94057?style=for-the-badge&logo=React&logoColor=white"/> ✅
 </a> <br> 
