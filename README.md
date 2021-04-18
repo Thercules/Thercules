@@ -27,7 +27,7 @@
 
 <p> ↳ The icarus project is a personal achievement. Since I was little I always wanted to write great comic books, just like the ones we see in the drawings, so, I present to you the icarus project, with deploying the html on a hosting site. </p>
 
-<h3><em><b> 🔹 Languages of i know: 🎓</b></em></h3> 
+<h2><em><b> 🔹 Languages of i know: 🎓</b></em></h2> 
 <a href="#"><img src="https://img.shields.io/badge/Java-E94057?style=for-the-badge&logo=Java&logoColor=white"/>
 </a>
 <a href="#"><img src="https://img.shields.io/badge/MySQL-E94057?style=for-the-badge&logo=Mysql&logoColor=white"/>
@@ -74,7 +74,7 @@
 <p> • Progressive web apps model.<b></p> 
 <p> • Agile methodologies with Scrum.<b></p>
 
-<h3><em><b> • Languages of i need to improve myself: 📚</b></em></h3>
+<h2><em><b> 🔹 Languages of i need to improve myself: 📚</b></em></h2>
 <a href="#"><img src="https://img.shields.io/badge/Oracle-E94057?style=for-the-badge&logo=Oracle&logoColor=white"/>
 </a>
 <a href="#"><img src="https://img.shields.io/badge/ReactJS-E94057?style=for-the-badge&logo=React&logoColor=white"/>
@@ -82,11 +82,11 @@
 <a href="#"><img src="https://img.shields.io/badge/Angular-E94057?style=for-the-badge&logo=Angular&logoColor=white"/>
 </a>
 
-<h3><em><b> • I am interested in: 🧐</em><b></h3> 
+<h2><em><b> 🔹 I am interested in: 🧐</em><b></h2> 
 <a href="#"><img src="https://img.shields.io/badge/Flutter-E94057?style=for-the-badge&logo=Flutter&logoColor=white"/>
 </a>
 	
-<h3><em><b> • About BootCamps: 🚀</em><b></h3> 
+<h2><em><b> 🔹 About BootCamps: 🚀</em><b></h2> 
 <p> ↳ Bootcamp developer mobile | IGTI | 4/5 ✅ </p> <br>
 <a href="#"><img src="https://img.shields.io/badge/React Native-E94057?style=for-the-badge&logo=React&logoColor=white"/> ✅
 </a> <br> 
