@@ -11,8 +11,6 @@
 <a href="https://instagram.com/t.hercules02"><img src="https://img.shields.io/badge/Personal Instagram-ffcbdb?style=for-the-badge&logo=instagram&logoColor=black"/></a>
 <a href="https://www.behance.net/thercules/appreciated"><img src="https://img.shields.io/badge/Behance-0077B5?style=for-the-badge&logo=behance&logoColor=white"/></a>
 </br>
-<a href="https://steamcommunity.com/id/thercules/"><img src="https://img.shields.io/badge/Python-E94057?style=for-the-badge&logo=python&logoColor=white"/>
-</a>
 ![Github language count](https://img.shields.io/github/followers/Thercules?style=social)
 </br>
 ![Github language count](https://img.shields.io/github/stars/Thercules?style=social)
