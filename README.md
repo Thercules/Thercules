@@ -82,6 +82,7 @@
 <p> • Projects in format: <b> MVC, DAO and CRUD.<b></p> 
 <p> • Progressive web apps model.<b></p> 
 <p> • Agile methodologies with Scrum.<b></p>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <h2><em><b> 🔹 Languages of i need to improve myself: 📚</b></em></h2>
 <a href="#"><img src="https://img.shields.io/badge/Oracle-f8efd4?style=for-the-badge&logo=Oracle&logoColor=783c00"/>
