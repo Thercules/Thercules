@@ -20,15 +20,14 @@
 </br>
 <br>
 
-#### • [Project icarus](https://github.com/Thercules/Project-Icarus)
+<a href="https://github.com/Thercules/Project-Icarus"><img src="https://github.com/Thercules/Project-Icarus/blob/master/imagens/Project-Icarus-LogoV2.png" min-width="400px" max-width="400px" width="400px" align="left" alt="ProjectIcarusLogo"></a>
+<br>
 <a href="#"><img src="https://img.shields.io/badge/JavaScript-E94057?style=for-the-badge&logo=Javascript&logoColor=white"/>
 </a>
 <a href="#"><img src="https://img.shields.io/badge/HTML5-E94057?style=for-the-badge&logo=Html5&logoColor=white"/>
 </a>
 <a href="#"><img src="https://img.shields.io/badge/CSS3-E94057?style=for-the-badge&logo=Css3&logoColor=white"/>
 </a>
-![Github language count](https://img.shields.io/github/languages/count/Thercules/Project-Icarus)
-</br>
 
 <p> ↳ The icarus project is a personal achievement. Since I was little I always wanted to write great comic books, just like the ones we see in the drawings, so, I present to you the icarus project, with deploying the html on a hosting site. </p>
 
@@ -82,7 +81,7 @@
 <p> • Projects in format: <b> MVC, DAO and CRUD.<b></p> 
 <p> • Progressive web apps model.<b></p> 
 <p> • Agile methodologies with Scrum.<b></p>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="THcomputer">
 
 <h2><em><b> 🔹 Languages of i need to improve myself: 📚</b></em></h2>
 <a href="#"><img src="https://img.shields.io/badge/Oracle-f8efd4?style=for-the-badge&logo=Oracle&logoColor=783c00"/>
