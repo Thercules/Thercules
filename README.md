@@ -19,9 +19,6 @@
 <a href="https://www.behance.net/thercules/appreciated"><img align='center' src="https://img.shields.io/badge/Behance-0077B5?style=for-the-badge&logo=behance&logoColor=white"/></a>
 </br>
 <br>
-![Github language count](https://img.shields.io/github/followers/Thercules?style=social)
-</br>
-![Github language count](https://img.shields.io/github/stars/Thercules?style=social)
 
 #### • [Project icarus](https://github.com/Thercules/Project-Icarus)
 <a href="#"><img src="https://img.shields.io/badge/JavaScript-E94057?style=for-the-badge&logo=Javascript&logoColor=white"/>
