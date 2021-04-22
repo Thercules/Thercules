@@ -13,11 +13,12 @@
 <br>
 <br>
 <a href="mailto:thhercules2012@gmail.com"><img align='center' src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/thiago-hercules-2669901ba/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/thiago-hercules-2669901ba/"><img align='center' src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/tdesigner._"><img align='center' src="https://img.shields.io/badge/Professional Instagram-ffcbdb?style=for-the-badge&logo=instagram&logoColor=black"/></a>
 <a href="https://instagram.com/t.hercules02"><img  align='center' src="https://img.shields.io/badge/Personal Instagram-ffcbdb?style=for-the-badge&logo=instagram&logoColor=black"/></a>
 <a href="https://www.behance.net/thercules/appreciated"><img align='center' src="https://img.shields.io/badge/Behance-0077B5?style=for-the-badge&logo=behance&logoColor=white"/></a>
 </br>
+<br>
 ![Github language count](https://img.shields.io/github/followers/Thercules?style=social)
 </br>
 ![Github language count](https://img.shields.io/github/stars/Thercules?style=social)
