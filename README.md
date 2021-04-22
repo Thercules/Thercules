@@ -8,7 +8,7 @@
 	🎓 Computer science student. <br> 
 	📚 Currently working as a UX / UI design freelancer. <br>
 	🍻 A beer on the weekend doesn't hurt. <br> 
-	🔥Gamer in the free time.
+	🔥 Gamer in the free time.
 	
 </p>
 <br>
