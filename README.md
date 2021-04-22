@@ -1,9 +1,16 @@
 <h1><b>Hello, my name is Thiago Hercules 👋</b><i class="fas fa-code"></i></h1>
 <p><em>Jr. fullstack developer. | Freelancer UX/UI Designer. </em></p>
 
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Thercules&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+
 <h3><em><b>🌍About me:🧠</b></em></h3> 
-<p>Hello, my name is Thiago, I'm 18 years old and I'm a student in the 3rd period of Computer Science at UNIFG. I have knowledge in Java, acquired at Fuctura Tecnologia, also developing skills in the following areas: Oracle, MySQL, HTML, Java Web and CSS. Upon entering college I learned C / C ++, Python, IONIC and Pentest. As I studied at a reference school, I was introduced to robotics, where I participated in the Brazilian Robotics Olympiad (OBR) in 2018 and the official LEGO FLL (First Lego League) tournament in the Hydro Dinamics version in 2017. Through some personal projects I developed a portfolio for my design page, and I'm currently creating a Java API for managing a clinic. Just as I was part of a voluntary project called Jovens Pelas Ruas (JPR) during the period of 3 months.
+<p> ♻️ A java enthusiast. <br>
+	🎓 Computer science student. <br> 
+	📚 Currently working as a UX / UI design freelancer.
+	🍻 A beer on the weekend doesn't hurt.
+	
 </p>
+<br>
 
 <a href="mailto:thhercules2012@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/thiago-hercules-2669901ba/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -92,9 +99,6 @@
 	
 <h2><em><b> 🔹 About BootCamps: 🚀</em><b></h2> 
 <p> ↳ Bootcamp developer mobile | IGTI | 4/5 ✅ </p> <br>
-<a href="#"><img src="https://img.shields.io/badge/React Native-E94057?style=for-the-badge&logo=React&logoColor=white"/> ✅
-</a> <br> 
-<a href="#"><img src="https://img.shields.io/badge/Android Native-E94057?style=for-the-badge&logo=Android&logoColor=white"/> ✅
-</a> <br>
-<a href="#"><img src="https://img.shields.io/badge/Flutter-E94057?style=for-the-badge&logo=Flutter&logoColor=white"/> 
-</a>  
+<p> ↳ Bootcamp anywhere code | Digital Innovation One | 9/17 ✅ </p> <br>
+
+[![Thercules](https://github-readme-stats.vercel.app/api/top-langs/?username=Thercules&hide=html&layout=compact&theme=default)](https://github.com/Thercules/)
