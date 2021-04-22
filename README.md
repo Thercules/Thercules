@@ -6,17 +6,17 @@
 <h3><em><b>🌍About me:🧠</b></em></h3> 
 <p> ♻️ A java enthusiast. <br>
 	🎓 Computer science student. <br> 
-	📚 Currently working as a UX / UI design freelancer.
+	📚 Currently working as a UX / UI design freelancer. <br>
 	🍻 A beer on the weekend doesn't hurt.
 	
 </p>
 <br>
-
-<a href="mailto:thhercules2012@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<br>
+<a href="mailto:thhercules2012@gmail.com"><img align='center' src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/thiago-hercules-2669901ba/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/tdesigner._"><img src="https://img.shields.io/badge/Professional Instagram-ffcbdb?style=for-the-badge&logo=instagram&logoColor=black"/></a>
-<a href="https://instagram.com/t.hercules02"><img src="https://img.shields.io/badge/Personal Instagram-ffcbdb?style=for-the-badge&logo=instagram&logoColor=black"/></a>
-<a href="https://www.behance.net/thercules/appreciated"><img src="https://img.shields.io/badge/Behance-0077B5?style=for-the-badge&logo=behance&logoColor=white"/></a>
+<a href="https://instagram.com/tdesigner._"><img align='center' src="https://img.shields.io/badge/Professional Instagram-ffcbdb?style=for-the-badge&logo=instagram&logoColor=black"/></a>
+<a href="https://instagram.com/t.hercules02"><img  align='center' src="https://img.shields.io/badge/Personal Instagram-ffcbdb?style=for-the-badge&logo=instagram&logoColor=black"/></a>
+<a href="https://www.behance.net/thercules/appreciated"><img align='center' src="https://img.shields.io/badge/Behance-0077B5?style=for-the-badge&logo=behance&logoColor=white"/></a>
 </br>
 ![Github language count](https://img.shields.io/github/followers/Thercules?style=social)
 </br>
