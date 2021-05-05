@@ -6,9 +6,9 @@
 <h3><em><b>🌍About me:🧠</b></em></h3> 
 <p> ♻️ A java enthusiast. <br>
 	🎓 Computer science student. <br> 
-	📚 Currently working as a UX / UI design freelancer. <br>
+	📚 Dev. Manager at Jupiter Consultory <br>
 	🍻 A beer on the weekend doesn't hurt. <br> 
-	🔥 Gamer in the free time.
+	🔥 Freelancer UX/UI Designer.
 	
 </p>
 <br>
