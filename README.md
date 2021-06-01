@@ -79,6 +79,10 @@
 </a>
 <a href="#"><img src="https://img.shields.io/badge/Python-f8efd4?style=for-the-badge&logo=python&logoColor=783c00"/>
 </a>
+<a href="#"><img src="https://img.shields.io/badge/ReactJS-f8efd4?style=for-the-badge&logo=React&logoColor=783c00"/>
+</a> 
+<a href="#"><img src="https://img.shields.io/badge/Angular-f8efd4?style=for-the-badge&logo=Angular&logoColor=783c00"/>
+</a>
 <p> • Projects in format: <b> MVC, DAO and CRUD.<b></p> 
 <p> • Progressive web apps model.<b></p> 
 <p> • Agile methodologies with Scrum.<b></p>
@@ -86,10 +90,6 @@
 
 <h2><em><b> 🔹 Languages of i need to improve myself: 📚</b></em></h2>
 <a href="#"><img src="https://img.shields.io/badge/Oracle-f8efd4?style=for-the-badge&logo=Oracle&logoColor=783c00"/>
-</a>
-<a href="#"><img src="https://img.shields.io/badge/ReactJS-f8efd4?style=for-the-badge&logo=React&logoColor=783c00"/>
-</a> 
-<a href="#"><img src="https://img.shields.io/badge/Angular-f8efd4?style=for-the-badge&logo=Angular&logoColor=783c00"/>
 </a>
 
 <h2><em><b> 🔹 I am interested in: 🧐</em><b></h2> 
