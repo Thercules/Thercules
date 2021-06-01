@@ -97,7 +97,7 @@
 </a>
 	
 <h2><em><b> 🔹 About BootCamps: 🚀</em><b></h2> 
-<p> ↳ Bootcamp developer mobile | IGTI | 4/5 ✅ </p> <br>
-<p> ↳ Bootcamp anywhere code | Digital Innovation One | 9/17 ✅ </p> <br>
+<p> ↳ Bootcamp developer mobile | IGTI ✅ </p> 
+<p> ↳ Bootcamp anywhere code | Digital Innovation One ✅ </p> <br>
 
 [![Thercules](https://github-readme-stats.vercel.app/api/top-langs/?username=Thercules&hide=html&layout=compact&theme=default)](https://github.com/Thercules/)
