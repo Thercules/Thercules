@@ -6,9 +6,10 @@
 <h3><em><b>🌍About me:🧠</b></em></h3> 
 <p> ♻️ A java enthusiast. <br>
 	🎓 Computer science student. <br> 
-	📚 Dev. Manager at Jupiter Consultory <br>
+	📚 Dev. Manager at Jupiter Consultory. <br>
 	🍻 A beer on the weekend doesn't hurt. <br> 
-	🔥 Freelancer UX/UI Designer.
+	🔥 Freelancer UX/UI Designer. <br>
+	🧭 CEO of the Tiger Team.
 	
 </p>
 <br>
