@@ -21,7 +21,7 @@
 </br>
 <br>
 
-<h2><em><b> Front </b></em></h2> 
+<h2><em><b> 📍 Front </b></em></h2> 
 <a href="#"><img src="https://img.shields.io/badge/ReactJS-FF0000?style=for-the-badge&logo=React&logoColor=white"/>
 </a> 
 <a href="#"><img src="https://img.shields.io/badge/Bootstrap-FF0000?style=for-the-badge&logo=Bootstrap&logoColor=white"/>
@@ -31,7 +31,7 @@
 <a href="#"><img src="https://img.shields.io/badge/Bootstrap-FF0000?style=for-the-badge&logo=Bootstrap&logoColor=white"/>
 </a>
 
-<h2><em><b> Back </b></em></h2> 
+<h2><em><b> 📍 Back </b></em></h2> 
 
 <a href="#"><img src="https://img.shields.io/badge/SpringBoot-FF0000?style=for-the-badge&logo=Spring&logoColor=white"/>
 </a>
@@ -52,19 +52,21 @@
 <a href="#"><img src="https://img.shields.io/badge/FireBase-FF0000?style=for-the-badge&logo=firebase&logoColor=white"/>
 </a>
 
-<h2><em><b> Mobile </b></em></h2>
+<h2><em><b> 📍 Mobile </b></em></h2>
 <a href="#"><img src="https://img.shields.io/badge/React Native-FF0000?style=for-the-badge&logo=React&logoColor=white"/>
 </a>
 <a href="#"><img src="https://img.shields.io/badge/Android Native-FF0000?style=for-the-badge&logo=Android&logoColor=white"/>
 </a> 
 
-<h2><em><b> Agile </b></em></h2>
+<h2><em><b> 📍 Agile </b></em></h2>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="THcomputer">
 <a href="#"><img src="https://img.shields.io/badge/SCRUM-FF0000?style=for-the-badge&logo=&logoColor=white"/>
 </a> 
 <a href="#"><img src="https://img.shields.io/badge/KANBAN-FF0000?style=for-the-badge&logo=&logoColor=white"/>
 </a>
 
-<h2><em><b> 🔹 Highlights:</em><b></h2>
-<p> • 5% Java Developers of LinkedIn </p>
+<h2><em><b> 📍 Highlights:</em><b></h2>
+<p> • Top 5% Java Developers of LinkedIn </p>
+<p> • Top 15% MySQL Developers of LinkedIn </p>
+<p> • Top 5% Css Developers of LinkedIn </p>
 <p> • Passed with 95% of performance in the Software Engineering subject at UNIFG </p><br>
