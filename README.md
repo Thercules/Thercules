@@ -17,7 +17,7 @@
 <a href="mailto:thhercules2012@gmail.com"><img align='center' src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/thiago-hercules-2669901ba/"><img align='center' src="https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/dev.hercules"><img align='center' src="https://img.shields.io/badge/Developing Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.figma.com/files/recent?fuid=1047854919048493632"><img align='center' src="https://img.shields.io/badge/Figma-FF0000?style=for-the-badge&logo=figma&logoColor=white"/></a>
+<a href="https://linktr.ee/thiago.hercules"><img align='center' src="https://img.shields.io/badge/Figma-FF0000?style=for-the-badge&logo=figma&logoColor=white"/></a>
 </br>
 <br>
 
