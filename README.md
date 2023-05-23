@@ -49,6 +49,8 @@
 </a>
 <a href="#"><img src="https://img.shields.io/badge/FireBase-FF0000?style=for-the-badge&logo=firebase&logoColor=white"/>
 </a>
+<a href="#"><img src="https://img.shields.io/badge/MongoDB-FF0000?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</a>
 
 <h2><em><b> 📍 Mobile </b></em></h2>
 <a href="#"><img src="https://img.shields.io/badge/React Native-FF0000?style=for-the-badge&logo=React&logoColor=white"/>
