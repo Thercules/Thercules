@@ -1,14 +1,14 @@
 <h1><b>Hello, my name is Thiago Hercules 👋</b><i class="fas fa-code"></i></h1>
-<p><em>Jr. fullstack developer. | Freelancer UX/UI Designer. </em></p>
+<p><em>Desenvolvedor Fullstack Pleno de nível 1. </em></p>
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Thercules&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=FF0000&cache_seconds=2300">
 
 <h3><em><b>🌍About me:🧠</b></em></h3> 
 <p> ☕ A java enthusiast. <br>
 	🎓 Computer science student. <br> 
-	📚 Dev. Manager at Jupiter Consultory. <br>
+	📚 Studing... <br>
 	🍻 A beer on the weekend doesn't hurt. <br> 
-	🔥 Freelancer UX/UI Designer. <br>
+	🔥  Developer in Jupiter Consultory. <br>
 	🧭 CEO of the Tiger Team.
 	
 </p>
