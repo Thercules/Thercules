@@ -28,8 +28,6 @@
 </a>
 <a href="#"><img src="https://img.shields.io/badge/Angular-FF0000?style=for-the-badge&logo=Angular&logoColor=white"/>
 </a>
-<a href="#"><img src="https://img.shields.io/badge/Bootstrap-FF0000?style=for-the-badge&logo=Bootstrap&logoColor=white"/>
-</a>
 
 <h2><em><b> 📍 Back </b></em></h2> 
 
