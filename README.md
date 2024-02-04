@@ -7,8 +7,7 @@
  	💚 Creator of Shutdown Academy  <br>
 	
 </p>
-<br>
-<br>
+
 <h2><b> 🟢 Contacts </b></h2> 
 <a href="mailto:thhercules2012@gmail.com"><img align='center' src="https://img.shields.io/badge/Gmail-4cc7a9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/thiago-hercules-2669901ba/"><img align='center' src="https://img.shields.io/badge/LinkedIn-4cc7a9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
