@@ -3,7 +3,7 @@
 <h3><em><b>About me:</b></em></h3> 
 <p> ☕ A java enthusiast. <br>
 	🎓 Graduated in computer science. <br> 
-	🔥  Fullstack Developer at 3Wings  <br>
+	🔥  Mid Level Developer at. Compass UOL  <br>
  	💚 Creator of Shutdown Academy  <br>
 	
 </p>
@@ -19,10 +19,13 @@
 <h2><b> 🟢 Front </b></h2> 
 <a href="#"><img src="https://img.shields.io/badge/ReactJS-4cc7a9?style=for-the-badge&logo=React&logoColor=white"/>
 </a> 
-<a href="#"><img src="https://img.shields.io/badge/Bootstrap-4cc7a9?style=for-the-badge&logo=Bootstrap&logoColor=white"/>
-</a>
 <a href="#"><img src="https://img.shields.io/badge/Angular-4cc7a9?style=for-the-badge&logo=Angular&logoColor=white"/>
 </a>
+<a href="#"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js badge"/>
+</a>
+<a href="#"><img src="https://img.shields.io/badge/Bootstrap-4cc7a9?style=for-the-badge&logo=Bootstrap&logoColor=white"/>
+</a>
+
 
 <h2><b> 🟢 Back </b></h2> 
 
@@ -31,6 +34,8 @@
 <a href="#"><img src="https://img.shields.io/badge/Java-4cc7a9?style=for-the-badge&logo=Java&logoColor=white"/>
 </a> 
 <a href="#"><img src="https://img.shields.io/badge/JavaScript-4cc7a9?style=for-the-badge&logo=Javascript&logoColor=white"/>
+</a>
+<a href="#"><img src="https://img.shields.io/badge/TypeScript-4cc7a9?style=for-the-badge&logo=TypeScript&logoColor=white"/>
 </a>
 <a href="#"><img src="https://img.shields.io/badge/Jquery-4cc7a9?style=for-the-badge&logo=jquery&logoColor=white"/>
 </a>
