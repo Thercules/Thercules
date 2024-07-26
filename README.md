@@ -1,3 +1,4 @@
+<img src="https://i.ibb.co/W30Qc8D/cl7god9gt00lx04wg4p2a93zt.jpg" alt="Profile Image" style="width:100%; max-width:600px; display:block; margin:0 auto;"/>
 <h1><b>Hello, my name is Thiago Hercules. </b><i class="fas fa-code"></i></h1>
 <p><em>I have been studying and making money through programming since 2016. I am a devoted reader, extremely passionate about the field, and I am the father of a girl. </em></p>
 <h3><em><b>About me:</b></em></h3> 
@@ -8,7 +9,7 @@
 	
 </p>
 
-<h2><b> 🟢 Contacts </b></h2> 
+<h2><b> Contacts </b></h2> 
 <a href="mailto:thhercules2012@gmail.com"><img align='center' src="https://img.shields.io/badge/Gmail-4cc7a9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/thiago-hercules-2669901ba/"><img align='center' src="https://img.shields.io/badge/LinkedIn-4cc7a9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/dev.hercules"><img align='center' src="https://img.shields.io/badge/Developing Instagram-4cc7a9?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -16,7 +17,7 @@
 </br>
 <br>
 
-<h2><b> 🟢 Front </b></h2> 
+<h2><b> Front </b></h2> 
 <a href="#"><img src="https://img.shields.io/badge/ReactJS-4cc7a9?style=for-the-badge&logo=React&logoColor=white"/>
 </a> 
 <a href="#"><img src="https://img.shields.io/badge/Angular-4cc7a9?style=for-the-badge&logo=Angular&logoColor=white"/>
@@ -27,7 +28,7 @@
 </a>
 
 
-<h2><b> 🟢 Back </b></h2> 
+<h2><b> Back </b></h2> 
 
 <a href="#"><img src="https://img.shields.io/badge/SpringBoot-4cc7a9?style=for-the-badge&logo=Spring&logoColor=white"/>
 </a>
@@ -52,20 +53,20 @@
 <a href="#"><img src="https://img.shields.io/badge/MongoDB-4cc7a9?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </a>
 
-<h2><b> 🟢 Mobile </b></h2>
+<h2><b> Mobile </b></h2>
 <a href="#"><img src="https://img.shields.io/badge/React Native-4cc7a9?style=for-the-badge&logo=React&logoColor=white"/>
 </a>
 <a href="#"><img src="https://img.shields.io/badge/Android Native-4cc7a9?style=for-the-badge&logo=Android&logoColor=white"/>
 </a> 
 
-<h2><b> 🟢 Agile </b></h2>
+<h2><b> Agile </b></h2>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="THcomputer">
 <a href="#"><img src="https://img.shields.io/badge/SCRUM-4cc7a9?style=for-the-badge&logo=&logoColor=white"/>
 </a> 
 <a href="#"><img src="https://img.shields.io/badge/KANBAN-4cc7a9?style=for-the-badge&logo=&logoColor=white"/>
 </a>
 
-<h2><b> 🟢 Highlights:<b></h2>
+<h2><b> Highlights:<b></h2>
 <p> • Top 5% Java Developers of LinkedIn </p>
 <p> • Top 15% MySQL Developers of LinkedIn </p>
 <p> • Top 5% Css Developers of LinkedIn </p>
