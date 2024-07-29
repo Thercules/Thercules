@@ -1,5 +1,6 @@
 <img src="https://i.ibb.co/W30Qc8D/cl7god9gt00lx04wg4p2a93zt.jpg" alt="Profile Image" style="width:100%; max-width:600px; display:block; margin:0 auto;"/>
 <h1><b>Hello, my name is Thiago Hercules. </b><i class="fas fa-code"></i></h1>
+<p><strong>**Warning: My Git repository has not been updated for over a year.**</strong></p>
 <p><em>I have been studying and making money through programming since 2016. I am a devoted reader, extremely passionate about the field, and I am the father of a girl. </em></p>
 <h3><em><b>About me:</b></em></h3> 
 <p> ☕ A java enthusiast. <br>
