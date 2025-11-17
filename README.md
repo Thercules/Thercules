@@ -12,7 +12,7 @@
 </br>
 <br>
 
-<h2><b>🧩 Frameworks</b></h2>
+<h2><b>Frameworks Back / Front / Mobile / Mensageria</b></h2>
 <p>
   <!-- Back-end -->
   <img src="https://img.shields.io/badge/Quarkus-cc0400?style=for-the-badge&logo=quarkus&logoColor=white"/>
@@ -27,6 +27,7 @@
   <!-- Front-end -->
   <img src="https://img.shields.io/badge/ReactJS-cc0400?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-cc0400?style=for-the-badge&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-cc0400?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-cc0400?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
@@ -42,23 +43,21 @@
   <img src="https://img.shields.io/badge/Apache Kafka-cc0400?style=for-the-badge&logo=apachekafka&logoColor=white"/>
 </p>
 
-<h2><b>⚙️ Linguagens</b></h2>
+<h2><b>Linguagens</b></h2>
 <p>
-  <img src="https://img.shields.io/badge/SpringBoot-cc0400?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-cc0400?style=for-the-badge&logo=quarkus&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-cc0400?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-cc0400?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-cc0400?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-cc0400?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
 
-<h2><b>🏗️ Arquitetura / Estrutura de Código</b></h2>
+<h2><b>Arquitetura / Práticas e Padrões / Tipos de API</b></h2>
 <p>
   <!-- Arquiteturas -->
-  <img src="https://img.shields.io/badge/Microfrontends-cc0400?style=for-the-badge&logo=microgenetics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MVC-cc0400?style=for-the-badge&logo=testcafe&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microfrontends-cc0400?style=for-the-badge&logo=webcomponents.org&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WebSockets (WSS)-cc0400?style=for-the-badge&logo=websocket&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SOAP-cc0400?style=for-the-badge&logo=soapui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swagger-cc0400?style=for-the-badge&logo=swagger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microfrontends-cc0400?style=for-the-badge&logo=webcomponents.org&logoColor=white"/>
 </p>
 
 <p>
@@ -69,7 +68,13 @@
   <img src="https://img.shields.io/badge/Branch Based Development-cc0400?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-<h2><b>🗄️ Banco de Dados</b></h2>
+<p>
+	<!-- Tipos de API -->
+  <img src="https://img.shields.io/badge/REST-cc0400?style=for-the-badge&logo=webcomponents.org&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SOAP-cc0400?style=for-the-badge&logo=webcomponents.org&logoColor=white"/>
+</p>
+
+<h2><b>Banco de Dados</b></h2>
 <p>
   <img src="https://img.shields.io/badge/MySQL-cc0400?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-cc0400?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -78,7 +83,7 @@
   <img src="https://img.shields.io/badge/ElasticSearch-cc0400?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
 </p>
 
-<h2><b>☁️ DevOps & Cloud</b></h2>
+<h2><b>DevOps & Cloud</b></h2>
 <p>
   <img src="https://img.shields.io/badge/Docker-cc0400?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-cc0400?style=for-the-badge&logo=kubernetes&logoColor=white"/>
